@@ -5,6 +5,8 @@ RegeneronSTS Submission Code
 *Editor date : 20210906*
 *Update date : 20210906*
 
+If used in a project, please cite "PerpetualOwl" - dm PerpetualOwl#5670 on Discord for correspondence.
+
 ---
 
 # Single Cell RNA-seq
