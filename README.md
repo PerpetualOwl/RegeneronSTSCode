@@ -7,6 +7,8 @@ RegeneronSTS Submission Code
 
 If used in a project, please cite "PerpetualOwl" - dm PerpetualOwl#5670 on Discord for correspondence.
 
+Code may be deprecated, has not been checked.
+
 ---
 
 # Single Cell RNA-seq
